@@ -20,12 +20,7 @@ This project is a Flutter application with two screens — a Login page and a Re
 
 | Login Page | Registration Page |
 |---|---|
-<<<<<<< HEAD
 | <img width="435" alt="Login" src="https://github.com/user-attachments/assets/534a4bc0-192c-4ac9-8681-ab77f0a25f61" /> | <img width="452" alt="Register" src="https://github.com/user-attachments/assets/43c2f073-47b5-4ad8-8aae-70e0200bf81b" /> |
-=======
-|<img width="435" height="925" alt="Screenshot 2026-09-25 235935" src="https://github.com/user-attachments/assets/534a4bc0-192c-4ac9-8681-ab77f0a25f61" />|
- | <img width="452" height="917" alt="Screenshot 2026-09-25 235921" src="https://github.com/user-attachments/assets/43c2f073-47b5-4ad8-8aae-70e0200bf81b" />|
->>>>>>> 43f8dcc0655701a05254dffc1593569d9775edc5
 
 ## Technologies Used
 
